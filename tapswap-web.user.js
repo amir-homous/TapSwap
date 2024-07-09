@@ -3,13 +3,13 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Running TapSwap in a browser with random iOS User-Agent
-// @author       mudachyo
+// @author       amir-homous
 // @match        *://*.tapswap.*/*
 // @grant        none
 // @icon         https://www.softportal.com/en/scr/1089/icons/icon_src.png
-// @downloadURL  https://github.com/mudachyo/TapSwap/raw/main/tapswap-web.user.js
-// @updateURL    https://github.com/mudachyo/TapSwap/raw/main/tapswap-web.user.js
-// @homepage     https://github.com/mudachyo/TapSwap
+// @downloadURL  https://github.com/amir-homous/TapSwap/raw/main/tapswap-web.user.js
+// @updateURL    https://github.com/amir-homous/TapSwap/raw/main/tapswap-web.user.js
+// @homepage     https://github.com/amir-homous/TapSwap
 // ==/UserScript==
 (function() {
     'use strict';
