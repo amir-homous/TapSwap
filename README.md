@@ -1,14 +1,14 @@
 > [!NOTE]
 > - Contacts: [Telegram](https://t.me/mudachyo)
 > - Channel: [Telegram Channel](https://t.me/shopalenka) 
-> - 🇷🇺 README на русском доступен [здесь](README.md)
+> - توضیحات به زبان فارسی [اینجا](README-FA.md)
 ---
 ## How to run  
 - Install Violentmonkey extension in your browser [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [MicrosoftEdge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
-- In order for TapSwap to open in a browser, install [this script](https://github.com/mudachyo/TapSwap/raw/main/tapswap-web.user.js)
-- To install **autoclicker** install [this script](https://github.com/mudachyo/TapSwap/raw/main/tapswap-autoclicker.user.js)
-- Open [Bot TapSwap](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3D@tapswap_bot%26start%3Dr_2475526) and run the game
-  
+- In order for TapSwap to open in a browser, install [this script](https://github.com/amir-homous/TapSwap/raw/main/tapswap-web.user.js)
+- To install **autoclicker** install [this script](https://github.com/amir-homous/TapSwap/raw/main/tapswap-autoclicker.user.js)
+- Open [Bot TapSwap](https://t.me/hamster_kombAt_bot/start?startapp=kentId665346234) and run the game
+
 - ![Result](result.gif)
 
 ---
