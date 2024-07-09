@@ -2,14 +2,14 @@
 // @name         TapSwap Autoclicker
 // @namespace    Violentmonkey Scripts
 // @match        *://*.tapswap.club/*
-// @author       mudachyo
+// @author       amir-homous
 // @version      1.1
 // @description  12.06.2024, 17:09:30
 // @grant        none
 // @icon         https://www.softportal.com/en/scr/1089/icons/icon_src.png
-// @downloadURL  https://github.com/mudachyo/TapSwap/raw/main/tapswap-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/TapSwap/raw/main/tapswap-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/TapSwap
+// @downloadURL  https://github.com/amir-homous/TapSwap/raw/main/tapswap-autoclicker.user.js
+// @updateURL    https://github.com/amir-homous/TapSwap/raw/main/tapswap-autoclicker.user.js
+// @homepage     https://github.com/amir-homous/TapSwap
 // ==/UserScript==
 
 // Настраиваемые значения
