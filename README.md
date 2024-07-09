@@ -4,11 +4,7 @@
 > - 🇷🇺 README на русском доступен [здесь](README.md)
 ---
 ## How to run  
-Ari Drop on PC
-- Install extension in your browser Violentmonkey
-Chrome (https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | FireFox (https://addons.mozilla.org/firefox/addon/violentmonkey/) | MicrosoftEdge (https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
-
-- Install Violentmonkey extension in your browser [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)[FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/)[MicrosoftEdge]([https://addons.mozilla.org/firefox/addon/violentmonkey/](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao))
+- Install Violentmonkey extension in your browser [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [MicrosoftEdge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 - In order for TapSwap to open in a browser, install [this script](https://github.com/mudachyo/TapSwap/raw/main/tapswap-web.user.js)
 - To install **autoclicker** install [this script](https://github.com/mudachyo/TapSwap/raw/main/tapswap-autoclicker.user.js)
 - Open [Bot TapSwap](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3D@tapswap_bot%26start%3Dr_2475526) and run the game
